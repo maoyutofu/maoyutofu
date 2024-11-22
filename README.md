@@ -45,6 +45,4 @@ hello#helix.top (# -> @)
 ![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscode)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoyutofu&layout=compact&theme=tokyonight)
-
 
