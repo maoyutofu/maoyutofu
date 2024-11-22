@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoyutofu&layout=compact&theme=tokyonight)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=maoyutofu&theme=dracula)
 
