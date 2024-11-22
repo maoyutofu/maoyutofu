@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Helix. I'm fullstack developer. I come from China.
 
 ## Website
-![itit.work](https://itit.work) ![Jizhong's blog](https://jizhong.plus) ![helix-editor.cn](https://helix-editor.cn)
+[itit.work](https://itit.work/) [Jizhong's blog](https://jizhong.plus/) [helix-editor.cn](https://helix-editor.cn/) [getuikit.work](https://getuikit.work/)
 
 ## Connect with me
 hello#helix.top (# -> @)
