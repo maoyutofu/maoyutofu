@@ -28,7 +28,6 @@ hello#helix.top (# -> @)
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
