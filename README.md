@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Helix. I'm fullstack developer. I often use Java, Rust, React, and Vue for program development.
+I'm Helix. I'm fullstack developer. I come from China.
+
+## Connect with me:
+hello#helix.top (@ => #)
+
 
 ## Languages
 
