@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 I'm Helix. I'm fullstack developer. I come from China.
 
-## Connect with me:
+## Website
+![itit.work](https://itit.work) ![Jizhong's blog](https://jizhong.plus) ![helix-editor.cn](https://helix-editor.cn)
+
+## Connect with me
 hello#helix.top (# -> @)
 
 
@@ -32,7 +35,7 @@ hello#helix.top (# -> @)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
-## Tools:
+## Tools
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
