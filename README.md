@@ -19,7 +19,7 @@ I'm Helix. I'm fullstack developer. I often use Java, Rust, React, and Vue for p
 
 ## Languages
 
-![Rust](https://img.shields.io/badge/-C++-000000?style=flat&logo=rust)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-Java-000000?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
