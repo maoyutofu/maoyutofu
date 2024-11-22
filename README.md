@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 I'm Helix. I'm fullstack developer. I'm working on IoT and streaming media.
 
-## Website
-[itit.work](https://itit.work/) · [Jizhong's blog](https://jizhong.plus/) · [helix-editor.cn](https://helix-editor.cn/) · [getuikit.work](https://getuikit.work/)
-
-## Connect with me
-hello#helix.top (# -> @)
-
 
 ## Languages
 
@@ -44,5 +38,11 @@ hello#helix.top (# -> @)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscode)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+
+## Website
+[itit.work](https://itit.work/) · [Jizhong's blog](https://jizhong.plus/) · [helix-editor.cn](https://helix-editor.cn/) · [getuikit.work](https://getuikit.work/)
+
+## Connect with me
+hello#helix.top (# -> @)
 
 
