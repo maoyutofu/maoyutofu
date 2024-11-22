@@ -28,6 +28,16 @@ I'm Helix. I'm fullstack developer. I often use Java, Rust, React, and Vue for p
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
+## Tools:
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscode)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoyutofu&layout=compact&theme=tokyonight)
 
 
