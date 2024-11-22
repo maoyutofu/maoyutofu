@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Helix. I'm fullstack developer. I come from China.
 
 ## Connect with me:
-hello#helix.top (@ -> #)
+hello#helix.top (# -> @)
 
 
 ## Languages
