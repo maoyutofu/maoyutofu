@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Helix. I'm fullstack developer. I come from China.
+I'm Helix. I'm fullstack developer. I'm working on IoT and streaming media.
 
 ## Website
 [itit.work](https://itit.work/) | [Jizhong's blog](https://jizhong.plus/) | [helix-editor.cn](https://helix-editor.cn/) | [getuikit.work](https://getuikit.work/)
