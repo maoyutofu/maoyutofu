@@ -39,7 +39,7 @@ I'm Helix. I'm fullstack developer. I'm working on IoT and streaming media.
 ![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscode)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
-## Website
+## Sites
 [itit.work](https://itit.work/) · [Jizhong's blog](https://jizhong.plus/) · [helix-editor.cn](https://helix-editor.cn/) · [getuikit.work](https://getuikit.work/)
 
 ## Connect with me
